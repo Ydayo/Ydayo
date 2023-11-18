@@ -1,8 +1,8 @@
-[![MasterHead](https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif)](https://github.com/Ydayo)
+![MasterHead](https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif)
 <h1 align="center">Hi 👋, I'm Y</h1>
 <h3 align="center">Frontend developer from Tokyo</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ydayo" alt="ydayo" /></a></p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ydayo" alt="ydayo" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
