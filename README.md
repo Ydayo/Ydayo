@@ -128,8 +128,8 @@
       </a>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydayo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ydayo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydayo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ydayo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ydayo&show_icons=true&locale=en&theme=onedark" alt="ydayo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ydayo&show_icons=true&locale=en&theme=tokyonight" alt="ydayo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ydayo&theme=onedark" alt="ydayo" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ydayo&theme=tokyonight" alt="ydayo" /></p>
