@@ -128,6 +128,6 @@
       </a>
     </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydayo&show_icons=true&locale=en&layout=compact" alt="ydayo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ydayo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ydayo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ydayo&show_icons=true&locale=en" alt="ydayo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ydayo&show_icons=true&locale=en&theme=tokyonight" alt="ydayo" /></p>
